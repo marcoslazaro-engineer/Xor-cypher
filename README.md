@@ -51,11 +51,8 @@ Note: The output may contain non-printable or strange characters. This is normal
 
 ## 🛠️ How to Compile?
 
-```bash
+##bash
 gcc main.c -o xor
 ▶️ How to Run?
-bash
-Copy
-Edit
 ./xor       # on Linux/macOS
 xor.exe     # on Windows (Code::Blocks or cmd)
