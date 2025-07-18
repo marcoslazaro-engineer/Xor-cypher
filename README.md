@@ -39,7 +39,7 @@ Note: The output may contain non-printable or strange characters. This is normal
 
 ---
 
-## ⚙️ Features
+##  Features
 
 ✅ Encrypt and decrypt with a single function  
 ✅ Handles variable-length keys (repeats automatically)  
@@ -49,10 +49,11 @@ Note: The output may contain non-printable or strange characters. This is normal
 
 ---
 
-## 🛠️ How to Compile?
+##  How to Compile?
 
 ##bash
 gcc main.c -o xor
-▶️ How to Run?
+
+## How to Run?
 ./xor       # on Linux/macOS
 xor.exe     # on Windows (Code::Blocks or cmd)
