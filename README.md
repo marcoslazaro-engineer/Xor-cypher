@@ -51,8 +51,8 @@ Note: The output may contain non-printable or strange characters. This is normal
 
 ##  How to Compile?
 
-##bash
-gcc main.c -o xor
+## bash
+gcc  -o xor xor.c
 
 ## How to Run?
 ./xor       # on Linux/macOS
